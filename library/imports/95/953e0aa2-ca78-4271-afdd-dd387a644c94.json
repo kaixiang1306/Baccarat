@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BtnLight",
+    "texture": "9307453a-e002-4057-8674-c9438dc5d0d8",
+    "atlas": "",
+    "rect": [
+      10,
+      0,
+      163,
+      183
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      183,
+      183
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

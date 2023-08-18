@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TipHe",
+    "texture": "6977fc51-6294-4854-85b4-610de228c58b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      163,
+      153
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      163,
+      153
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

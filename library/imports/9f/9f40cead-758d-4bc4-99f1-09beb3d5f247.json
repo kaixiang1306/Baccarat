@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BtnOtherPlayer2",
+    "texture": "24a94478-86f2-4f17-8cec-3874bfe91d62",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      115,
+      116
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      117,
+      116
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bjl_chipdi",
+    "texture": "c9965eed-61ba-43d7-ac1f-d02fd0cd2650",
+    "atlas": "",
+    "rect": [
+      3,
+      0,
+      968,
+      146
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      976,
+      146
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

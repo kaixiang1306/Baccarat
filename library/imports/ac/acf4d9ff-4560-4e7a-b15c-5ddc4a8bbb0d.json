@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bjl_chip2Font",
+    "texture": "c580f092-7a1a-4c00-8109-62b2d1bde0c9",
+    "atlas": "",
+    "rect": [
+      9,
+      11,
+      532,
+      48
+    ],
+    "offset": [
+      -5.5,
+      0
+    ],
+    "originalSize": [
+      561,
+      70
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

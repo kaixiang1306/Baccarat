@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BattertBg",
+    "texture": "51e8e918-9721-429b-b0c3-ea1a2124589d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      76,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      76,
+      36
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TipTiger",
+    "texture": "4f008d3a-815f-4054-ab33-292c94f974d9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      269,
+      269
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      269,
+      269
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

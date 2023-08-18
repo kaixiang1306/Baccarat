@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Jetton3",
+    "texture": "97c89a2a-db84-4ae7-98b1-6e023657af46",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      166,
+      174
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      166,
+      174
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

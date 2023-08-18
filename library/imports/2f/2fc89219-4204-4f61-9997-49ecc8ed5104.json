@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TipDragon",
+    "texture": "7454b32d-f7cd-4045-8801-41cd0d1fda9b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      267,
+      267
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      267,
+      267
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
